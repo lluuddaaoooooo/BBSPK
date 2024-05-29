@@ -927,7 +927,21 @@ const db_forums = [
             }
         ]
     },
-    {
+
+ {
+        title: "mcwuebbs-我的世界中文论坛",
+        url: "https://mcbbs.wuenuo.com/",
+        state: "up",
+        createdAt: "2024/03/22",
+        updatedAt: "2024/05/17",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "《mcwuebbs-Minecraft中文论坛》论坛探索无尽的冒险和创造吧！",
+        reference: []
+    },
+    
+
+ {
         title: "土豆社区",
         url: "https://bbs2.potatokj.top",
         state: "up",
@@ -938,6 +952,7 @@ const db_forums = [
         note: "非大陆服务器。大部分地区无法访问。",
         reference: []
     },
+
     {
         title: "MCBBS 3rd",
         url: "https://mcbbs.asia",
